@@ -1,0 +1,3 @@
+limits
+minZoomLevel
+	^ 2

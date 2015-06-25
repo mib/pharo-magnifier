@@ -1,0 +1,3 @@
+limits
+maxZoomLevel
+	^ 256

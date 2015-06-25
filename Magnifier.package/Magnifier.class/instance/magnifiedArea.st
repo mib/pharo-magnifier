@@ -1,0 +1,3 @@
+accessing
+magnifiedArea
+	^ magnifiedArea asSpecAdapter

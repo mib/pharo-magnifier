@@ -1,0 +1,3 @@
+protocol-api
+decreaseZoomLevel
+	magnifiedArea decreaseZoomLevel

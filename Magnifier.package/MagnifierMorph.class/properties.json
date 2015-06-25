@@ -1,0 +1,15 @@
+{
+	"category" : "Magnifier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MichalBalda 2/24/2015 14:10",
+	"instvars" : [
+		"zoomLevel",
+		"refreshTime" ],
+	"name" : "MagnifierMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

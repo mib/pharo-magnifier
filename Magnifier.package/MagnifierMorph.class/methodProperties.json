@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clearAreaOn:" : "MichalBalda 2/24/2015 14:37",
+		"decreaseZoomLevel" : "MichalBalda 2/23/2015 16:45",
+		"drawHandAreaOn:" : "MichalBalda 2/24/2015 14:34",
+		"drawMagnifiedHandAreaOn:" : "MichalBalda 2/24/2015 14:36",
+		"drawOn:" : "MichalBalda 2/24/2015 14:38",
+		"increaseZoomLevel" : "MichalBalda 2/23/2015 16:45",
+		"initialize" : "MichalBalda 2/24/2015 14:11",
+		"maxZoomLevel" : "MichalBalda 2/24/2015 13:03",
+		"minZoomLevel" : "MichalBalda 2/23/2015 16:45",
+		"refreshTime" : "MichalBalda 2/23/2015 16:43",
+		"refreshTime:" : "MichalBalda 2/23/2015 16:43",
+		"step" : "MichalBalda 2/23/2015 13:05",
+		"stepTime" : "MichalBalda 2/23/2015 16:46",
+		"zoomLevel" : "MichalBalda 2/23/2015 16:43",
+		"zoomLevel:" : "MichalBalda 2/23/2015 16:45" } }

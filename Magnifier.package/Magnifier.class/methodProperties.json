@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultSpec" : "MichalBalda 2/24/2015 12:50",
+		"open" : "MichalBalda 2/23/2015 16:49" },
+	"instance" : {
+		"bindKeyShortcuts" : "MichalBalda 2/24/2015 13:28",
+		"decreaseZoomLevel" : "MichalBalda 2/24/2015 13:26",
+		"increaseZoomLevel" : "MichalBalda 2/24/2015 13:26",
+		"initializePresenter" : "MichalBalda 2/24/2015 13:26",
+		"initializeWidgets" : "MichalBalda 2/24/2015 13:30",
+		"magnifiedArea" : "MichalBalda 2/23/2015 14:54",
+		"open" : "MichalBalda 2/23/2015 16:50",
+		"refreshTime" : "MichalBalda 2/24/2015 13:27",
+		"refreshTime:" : "MichalBalda 2/23/2015 16:47",
+		"title" : "MichalBalda 2/23/2015 14:51",
+		"zoomInButton" : "MichalBalda 2/23/2015 13:31",
+		"zoomOutButton" : "MichalBalda 2/23/2015 13:31" } }

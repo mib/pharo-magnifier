@@ -1,0 +1,16 @@
+{
+	"category" : "Magnifier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "MichalBalda 2/24/2015 13:55",
+	"instvars" : [
+		"magnifiedArea",
+		"zoomInButton",
+		"zoomOutButton" ],
+	"name" : "Magnifier",
+	"pools" : [
+		 ],
+	"super" : "ComposableModel",
+	"type" : "normal" }

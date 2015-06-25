@@ -1,0 +1,3 @@
+updating
+stepTime
+	^ self refreshTime
